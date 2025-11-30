@@ -2,7 +2,7 @@ name: Backend - Testes Automatizados
 
 on:
   push:
-    branches: [ main, feature/testes-atimatizados ]
+    branches: [ main, testes-automatizados ]
   pull_request:
     branches: [ main ]
 
