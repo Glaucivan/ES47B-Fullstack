@@ -2,7 +2,7 @@ name: Backend - Testes Automatizados
 
 on:
   push:
-    branches: [ main, testes-automatizados ]
+    branches: [ main, testes-automatizados ] # muda o nome da branch
   pull_request:
     branches: [ main ]
 
